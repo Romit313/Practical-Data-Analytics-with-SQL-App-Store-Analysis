@@ -156,8 +156,3 @@ This project explores and analyzes a comprehensive **App Store dataset** sourced
 - **Languages**: SQL
 
 ---
-
-## 📬 Contact
-- **Author**: Divyanshu Mishra  
-- **Email**: [divyanshu.mishra@utdallas.edu](mailto:divyanshu.mishra@utdallas.edu)  
-- **GitHub**: [Divyanshu Mishra](https://github.com/DivyanshuMishra97)
